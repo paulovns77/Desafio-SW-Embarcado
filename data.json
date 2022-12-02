@@ -1,0 +1,8 @@
+{
+    "cozinha": {"temperatura": 30, "potencia": 30},
+    "quarto1": {"temperatura": 28, "potencia": 45},
+    "quarto2": {"temperatura": 29, "potencia": 25},
+    "sala": {"temperatura": 32, "potencia": 29},
+    "quintal": {"chuva": 1, "nivel": 100},
+    "telhado": {"chuva": 1, "nivel": 300}
+}
